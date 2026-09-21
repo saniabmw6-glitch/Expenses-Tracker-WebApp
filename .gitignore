@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+.env
+*.pem
+*.key
+application.properties
+target/
+mysql-data/
+node_modules/
+__pycache__/
